@@ -1,0 +1,14 @@
+.progress {
+    background: white;
+    border: solid 1px black;
+}
+
+.progress-bar {
+    background: rgb(34, 59, 138);
+}
+
+p {
+    font-style: italic;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
